@@ -61,5 +61,8 @@ plt.show()
 
 ## Results:
 Thus the PSK (Phase Shift Keying) is performed using Python.
+GRAPH:
+![WhatsApp Image 2025-05-12 at 19 23 14_0d65e20f](https://github.com/user-attachments/assets/95a8d81d-9312-4cb2-aba8-df5a9b0f1f34)
+
 
 
